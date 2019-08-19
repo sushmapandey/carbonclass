@@ -1,3 +1,5 @@
+Demo link-https://www.diamondbrite.co.in/
+
 # carbonclass theme
 This theme is designed to showcase what carbonclass can do with regards to themes. It is intended as a work in progress, at least until v1 of the new editor (and maybe beyond).
 
